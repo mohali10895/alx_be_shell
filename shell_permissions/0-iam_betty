@@ -1,5 +1,3 @@
 #!/bin/bash
-su betty
 touch 0-iam_betty
 chmod +x 0-iam_betty  # Make the script executable
-./0-iam_betty
