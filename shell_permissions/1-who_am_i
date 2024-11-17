@@ -1,2 +1,2 @@
 #!/bin/bash
-if [ "$(whoami)" == "root" ] then echo "root" else whoami fi
+id -un
